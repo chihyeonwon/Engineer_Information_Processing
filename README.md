@@ -121,3 +121,13 @@ Bohem이 고안한 나선형 모델(위험관리)
 
 ## 2020년 09월 26일 (4회)
 
+#### 1. XP(eXtreme Programming)의 기본원리로 볼 수 없는 것은?
+```
+XP의 기본 원리 
+
+개발자 공동 2명 작업 Pair Programming (PP)
+공동 소유 Collective Ownership (CO)
+지속적통합 Continuous Integration (CI)
+계발계획수립PG, 짧은배포주기 SR, 문장형시스템아키텍쳐 meta, 단순설계 SD
+중복제거 Refactoring 등등
+```
