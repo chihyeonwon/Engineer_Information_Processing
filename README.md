@@ -1,5 +1,6 @@
 # Engineer_Information_Processing
 정보처리기사 情報處理技士 Engineer Information Processing 소프트웨어공학 기출문제 학습정리입니다.
+[이기적 CBT](https://cbt.youngjin.com/exam/index.php?no=71)
 
 ## 정보처리기사 개요
 [정보처리기사 CBT 기출문제](https://www.comcbt.com/xe/iz)
