@@ -150,3 +150,4 @@ XP의 기본 원리
 ```
 ![image](https://github.com/chihyeonWON/Engineer_Information_Processing/assets/58906858/bae3296f-778d-455d-a11c-6eea4a402b1a)
 ![image](https://github.com/chihyeonWON/Engineer_Information_Processing/assets/58906858/f09bab42-9f57-46a0-a06c-62ef66f56fbe)
+![image](https://github.com/chihyeonWON/Engineer_Information_Processing/assets/58906858/709f3c9b-2ec5-46d0-9db8-c5688de63a19)
