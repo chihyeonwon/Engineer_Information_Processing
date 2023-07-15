@@ -148,3 +148,5 @@ XP의 기본 원리
 ```
 애자일 방법론에 해당하는 것들 : XP, 스크럼(scrum), 크리스털패밀리, 기능 중심 개발(FDD, Feature-Driven Development)
 ```
+![image](https://github.com/chihyeonWON/Engineer_Information_Processing/assets/58906858/bae3296f-778d-455d-a11c-6eea4a402b1a)
+![image](https://github.com/chihyeonWON/Engineer_Information_Processing/assets/58906858/f09bab42-9f57-46a0-a06c-62ef66f56fbe)
