@@ -2,6 +2,10 @@
 정보처리기사 情報處理技士 Engineer Information Processing 소프트웨어공학 기출문제 학습정리입니다.
 [이기적 CBT](https://cbt.youngjin.com/exam/index.php?no=71)
 
+## 2024 정보처리기사 필기, 실기 일정
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/cb7c9482-ac74-4847-89b5-5e380b141821)       
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/d05cde24-ace3-401f-889c-0c1a440bab89)     
+
 ## 정보처리기사 개요
 [정보처리기사 CBT 기출문제](https://www.comcbt.com/xe/iz)
 ```
