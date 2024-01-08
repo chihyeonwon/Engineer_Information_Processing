@@ -164,4 +164,16 @@ XP의 기본 원리
 
 ## 2과목 소프트웨어 개발 오답노트
 ![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/47dc1162-9c71-4dd7-b6a1-ae60e9cddfbc)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/103f5e3f-1c4f-416f-a207-7c836cfaa6ff)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/ff5fcf4d-dd85-4bcd-90b1-e92cacff547d)
+
+
+
+
+
+
+
+
+
+
 
