@@ -167,8 +167,12 @@ XP의 기본 원리
 ![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/103f5e3f-1c4f-416f-a207-7c836cfaa6ff)
 ![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/ff5fcf4d-dd85-4bcd-90b1-e92cacff547d)
 
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/b8b14dfe-cb6c-4423-8330-2d2c023aea5d)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/bb778420-4e09-4426-a864-9b9cc276d495)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/7af998d6-a6d0-4fad-8238-5cd937f66a87)
 
-
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/aeda468d-baea-4d0a-9c8e-b636cb356077)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/065e0099-d310-4f2d-a6eb-0aef630493fd)
 
 
 
