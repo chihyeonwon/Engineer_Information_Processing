@@ -182,7 +182,13 @@ XP의 기본 원리
 ![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/cdb87b61-1463-4a6b-8e58-be92bf0cc7ab)
 ![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/d52fcb83-e5a0-46e2-8fd3-043c84faaf14)
 
-
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/8725dd2b-cde8-4d50-92a3-c58cc64effcd)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/d40ab0a0-d69f-4eba-ab58-82868f47d8b7)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/6be75ac1-6302-4d65-b723-cde18cf6149f)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/732e8a64-2185-441f-88fe-351f2931fa0f)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/22491fb5-640f-4481-a36a-e6be8679ad6b)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/6b3e9bf9-0f1a-4a19-a1a9-8c4adbd4c0f0)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/0e269d67-d36f-4f15-8925-6ccca854e268)
 
 
 
