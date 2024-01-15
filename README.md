@@ -190,6 +190,9 @@ XP의 기본 원리
 ![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/6b3e9bf9-0f1a-4a19-a1a9-8c4adbd4c0f0)
 ![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/0e269d67-d36f-4f15-8925-6ccca854e268)
 
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/b50be756-f6ff-4c2c-9d59-b85634386fe7)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/93404b67-dd6c-482a-8a2c-154bec4838c6)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/f2af832b-0098-468d-871c-9bcd596322a7)
 
 
 
