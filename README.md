@@ -194,5 +194,23 @@ XP의 기본 원리
 ![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/93404b67-dd6c-482a-8a2c-154bec4838c6)
 ![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/f2af832b-0098-468d-871c-9bcd596322a7)
 
+## 3과목
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/ec465886-4073-4a34-81ef-87c8dd6c56cb)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/50ddf3c7-c61f-439a-b17e-4589deb8cf11)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/8d2eb103-e84c-4824-939a-5b19577b182d)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/27566765-546c-4ed1-8602-4267cc1ae9c9)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/6ba56c45-9038-43d0-ab9e-e80c2c0bd112)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/04d0caa7-ad48-42cf-944e-653ea4d984e0)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/fff626db-45b6-4a27-a971-d2c54a775d68)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/49bd5592-c402-40c7-9bbc-0c08a3d62e2f)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/8452ff4b-bbff-4545-bbd0-c47554e34840)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/b193adad-395d-41c4-9bb6-39334a87f0c7)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/9363d613-3501-451a-aba7-aa29c43f1a51)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/8343326c-3746-4f5e-94a9-7eb512ec1ac4)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/94865ce2-0ed7-422c-b129-d16fc75eb494)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/51746449-b45b-4620-9a47-22cc10d00da4)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/611afcc7-028e-4bd6-929f-3de2f451654c)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/07549694-2318-4ed5-81d1-b2d98093790a)
+
 
 
