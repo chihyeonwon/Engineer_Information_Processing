@@ -1,7 +1,11 @@
 # Engineer_Information_Processing
 정보처리기사 情報處理技士 Engineer Information Processing 소프트웨어공학 기출문제 학습정리입니다.
 ## 24년 정처기 학습동아리 "정보처리흑기사"
-[4과목 프로그래밍 언어 활용](https://www.youtube.com/watch?v=Oxjmb9rAsn8)
+[1과목 소프트웨어 설계](https://www.youtube.com/watch?v=JhKOsZuMDWs)   
+[2과목 소프트웨어 개발](https://www.youtube.com/watch?v=cnjvTZh3_bg)   
+[3과목 데이터베이스 구축](https://www.youtube.com/watch?v=KLj1U03HCNI)   
+[4과목 프로그래밍 언어 활용](https://www.youtube.com/watch?v=Oxjmb9rAsn8)   
+[5과목 정보시스템 구축 관리](https://www.youtube.com/watch?v=LC3TWc_j6n4)   
 ```
 24년 1월 학습동아리 활동하면서 기록 제개
 ```
