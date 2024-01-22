@@ -216,5 +216,44 @@ XP의 기본 원리
 ![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/611afcc7-028e-4bd6-929f-3de2f451654c)
 ![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/07549694-2318-4ed5-81d1-b2d98093790a)
 
+## 4과목
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/fc10826e-b3aa-4927-96d8-eadf2ac753a8)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/0c426469-8604-4dfd-8690-f1f79342e4d8)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/3dabe7fa-d583-4422-badb-8c4f4e6e1b3e)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/d0e7b20e-bb0a-43ef-8602-2d8daae98d71)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/cc82d76c-3a8e-4a3a-9fa2-bd92f5dc767d)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/53b59750-81f2-4c0a-a181-50b8e17cf4c6)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/878f6969-ec4d-4cc6-a34f-e1b54c6faa15)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/39ee9a39-5ac1-45aa-8b43-1a28f5bc1073)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/71c363da-7d42-4140-9b09-fb2bfd661cc9)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/afdb8fda-54cb-4a5c-8d65-cde224786315)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/69172ba7-de92-48a5-854a-c0bb466b22d4)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/355e4551-54e1-4155-ba55-d3e3940053df)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/2ee787ac-cd93-41f9-9549-8c06eca99f37)
+
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/cecc6a5a-d201-4892-9fbc-015cbd3743cc)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/bc51394e-a7ab-403f-ba45-6963b92126fb)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/c878ea9c-4e17-41ee-b5f5-3230f2ed9b3a)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/346d75da-aaa3-4cb2-895d-4cf8b80537e8)
+
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/bf28f766-bc92-4934-a06c-632bb09a2607)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/da174712-6595-4a47-a163-fe9f3b649cda)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/386b86a3-eb20-4f3c-bdd1-45e4a206cd8d)
+
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/7f5106bb-3326-43b3-92f4-2e761ed20891)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/68324d75-5afe-4e88-bd8d-1d85ca0695c6)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/6919c991-f8ce-4e1e-b48f-f112222350c7)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/3e6b2008-b337-407c-81ae-f35ce6a330cf)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/59d48454-e352-4b4b-b4c9-2189ddf5aba9)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/8e3518dc-fe06-4dd0-905f-0ab4118d4059)
+
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/9838ddf5-2be1-4f0d-9613-70e9a1c56afc)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/f53b7904-c0d7-494d-8de2-1422a01e2322)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/cd092466-a486-465b-8107-9ea05c5b9a03)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/859bbd49-3be0-4d24-8e30-c844da5d4487)
+![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/629ea6da-bb33-4f00-88a9-e55545041a07)
+
+
+
 
 
