@@ -253,7 +253,38 @@ XP의 기본 원리
 ![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/859bbd49-3be0-4d24-8e30-c844da5d4487)
 ![image](https://github.com/mr-won/Engineer_Information_Processing/assets/58906858/629ea6da-bb33-4f00-88a9-e55545041a07)
 
+## 5과목
 
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/cf7ae6c5-8e89-41aa-8fa6-72b49a97e4ad)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/28a03688-85bb-49d6-be3c-60e92054cccc)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/92013f9b-4972-4730-832b-3ca401ed337e)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/f9ccf63b-62d3-42e0-8724-a1a929ec16db)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/d8ae6ea4-1301-4e3f-8c3f-ca4d85bc5588)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/a53fdf65-49f6-440f-8260-1cc8fc9a2123)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/572a6156-7a28-4510-bc51-b5dac4abb2ca)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/ddcd960f-d12a-484d-a7e5-85fe1ebb9884)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/c932e032-5e45-49ba-938e-7e3f9fc11f67)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/4e36baab-e578-41f7-b94e-733bd4e01cba)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/1bccaa39-f431-4ce9-9f06-1c5ca10cf196)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/1e06ceba-aa4e-4bea-9342-e697d37fc243)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/bc318073-d796-405b-81a7-bb009e2e40a7)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/139d91e1-7293-4a74-a0c1-b4bb50f6e83b)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/07b141a3-868e-4c88-89e2-6d1bd43170c3)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/68e85cee-6b37-4622-a4ea-338369a384a5)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/fd5c2b9a-a98b-4d41-9fa0-b0d4626b0ced)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/c08df15c-1e12-41c0-a2cd-6ceb3ad866b5)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/d207ae6a-563f-4a15-9865-88377065e249)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/ba6cc990-039c-415d-95b4-0061b5e81f29)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/2203aa4b-9b2b-49d7-b333-f9420f0cd816)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/203276b1-09ca-4df2-80ab-19025fce3df0)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/ea4de7b0-650f-4a14-9e8b-01b6d701e1aa)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/e10a5887-c64e-4a8e-8d41-2bb7d3073fd9)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/ce55ea3c-f7f7-498e-8a1e-38774102b5ed)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/8f169690-9768-4e10-a319-cff73f2efb5c)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/6cc441d3-3bf3-4079-9d22-29adffcee099)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/d932864e-de7c-499e-b64b-5af9e33d9b66)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/254db186-1cc3-45d0-afc3-fce80688cd0e)
+![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/9870ae30-fce9-441e-bb00-172fe6b1cfcd)
 
 
 
