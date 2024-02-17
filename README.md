@@ -7,6 +7,11 @@
 - 4과목 90
 - 5과목 85
 - 평균 86
+
+## 24.4.27 실기
+
+
+
 ## 24년 정처기 학습동아리 "정보처리흑기사"
 [1과목 소프트웨어 설계](https://www.youtube.com/watch?v=JhKOsZuMDWs)   
 [2과목 소프트웨어 개발](https://www.youtube.com/watch?v=cnjvTZh3_bg)   
