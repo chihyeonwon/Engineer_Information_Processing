@@ -1,7 +1,7 @@
 # Engineer_Information_Processing
 정보처리기사 情報處理技士 Engineer Information Processing 소프트웨어공학 기출문제 학습정리입니다.
 ## 24.02.15 12:40 필기 합
-- 1과목 80
+- 1과목 85
 - 2과목 75
 - 3과목 95
 - 4과목 90
