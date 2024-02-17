@@ -1,5 +1,12 @@
 # Engineer_Information_Processing
 정보처리기사 情報處理技士 Engineer Information Processing 소프트웨어공학 기출문제 학습정리입니다.
+## 24.02.15 12:40 필기 합
+- 1과목 80
+- 2과목 75
+- 3과목 95
+- 4과목 90
+- 5과목 85
+- 평균 86
 ## 24년 정처기 학습동아리 "정보처리흑기사"
 [1과목 소프트웨어 설계](https://www.youtube.com/watch?v=JhKOsZuMDWs)   
 [2과목 소프트웨어 개발](https://www.youtube.com/watch?v=cnjvTZh3_bg)   
