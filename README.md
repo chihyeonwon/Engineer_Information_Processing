@@ -297,6 +297,7 @@ XP의 기본 원리
 ![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/d932864e-de7c-499e-b64b-5af9e33d9b66)
 ![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/254db186-1cc3-45d0-afc3-fce80688cd0e)
 ![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/9870ae30-fce9-441e-bb00-172fe6b1cfcd)
+## 실기 기출 정리 
 
 ## 2023년 1회 기출
 ```
