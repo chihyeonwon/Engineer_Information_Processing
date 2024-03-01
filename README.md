@@ -298,5 +298,34 @@ XP의 기본 원리
 ![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/254db186-1cc3-45d0-afc3-fce80688cd0e)
 ![image](https://github.com/wonchihyeon/Engineer_Information_Processing/assets/58906858/9870ae30-fce9-441e-bb00-172fe6b1cfcd)
 
-
+## 2023년 1회 기출
+```
+```
+## 2022년 3회 기출
+```
+```
+## 2022년 2회 기출
+```
+```
+## 2022년 1회 기출
+```
+```
+## 2021년 3회 기출
+```
+```
+## 2021년 2회 기출
+```
+```
+## 2021년 1회 기출
+```
+```
+## 2020년 4,5회 기출
+```
+```
+## 2020년 3회 기출
+```
+```
+## 2020년 2회 기출
+```
+```
 
