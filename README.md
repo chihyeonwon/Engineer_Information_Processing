@@ -4,7 +4,7 @@
 ![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/4d2aa216-b3d1-483d-b26f-360f1a038eb1)
 
 ## 24.4.27 실기
-
+실기는 프로그래밍, 데이터베이스 잘하면 합격하는듯
 
 
 ## 24년 정처기 학습동아리 "정보처리흑기사"
