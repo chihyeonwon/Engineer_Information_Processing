@@ -5,7 +5,7 @@
 
 ## 24.4.27 실기
 실기는 프로그래밍, 데이터베이스 잘하면 합격하는듯
-
+[20년 1회](https://www.youtube.com/watch?v=S7l1qX0WhqE&list=PLniy99c_7ZfpDRzBXv1ryJbW-KnHGp1Az)
 
 ## 24년 정처기 학습동아리 "정보처리흑기사"
 [1과목 소프트웨어 설계](https://www.youtube.com/watch?v=JhKOsZuMDWs)   
