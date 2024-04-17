@@ -723,3 +723,19 @@ tkip : 임시 키 무결성 프로토콜 temporary key integrity protocol
 -> 옵션을 줄수 있음 (restrict <> cascade)
 도메인 무결성 제약조건
 ```
+```
+insert into 테이블명 (속성1, 속성2) values (1, 'A') 문자는 '' 안에
+update 테이블명 set 속성 = 1 where 조건
+delete from 테이블명 where 조건
+select * from 테이블명  where ~ group by ~ 집계함수 having 조건 order by 속성 asc or desc
+
+c코드 나오면 main() 부터본다.
+재귀함수-> 박스로이어서 계산 , 상수값이 나오면 끝
+아래서 위까지 써놓고 맨 위가 상수면 그 상수를 밑으로 내리면서 계산
+
+괄호에는 <, > 이게 많이나오고 답이 %, / 을 넣어보고 계산
+
+값을 변수에 넣고 *, /, % 세 개를해서 원하는 출력값이 출력될 것 같은지를 판단해서 푼다.
+
+
+```
