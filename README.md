@@ -1287,5 +1287,6 @@ Python -> True, False
 
 static은 new로 객체를 생성안해도 쓸 수 있는 것이다.
 
+i in range(1,3) <- [] 슬라이싱과 같다. 1부터 3-1 1부터 2까지
 
 ```
