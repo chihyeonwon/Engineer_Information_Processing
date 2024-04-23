@@ -1313,6 +1313,63 @@ a[-1:-5:-1] 이렇게 하면 [9,8,7,6] 이 출력된다.
 
 데이터에는 ' ' 쌍따옴표 X
 ```
+```
+DDL : 3가지 create, drop, alter
+DML : select, delete, update, insert
+
+외래키 참조
+속성명 foreign key preferences 테이블명 on delete cascade;
+foregin key(속성명) preferences 테이블명 on delete cascade;
+
+뷰 생성
+craete view 뷰이름(속성명) as select ~
+
+create view CC(ccid, ccname, instname) as select course.id, corse.name, instructor.name from course, instructor
+where course.instructor = instructor.id
+
+인덱스 생성
+create index 인덱스이름 on 테이블명(속성 asc|desc);
+
+권한 부여
+grant on to
+
+권한 회수
+revoke on from
+
+Rollback : 변경되었으나 commite 되지 않은 내용들을 취소하고 데이터베이스를 이전 상태로 되돌리는 명령어
+
+Update
+
+Update 테이블명 set 속성명=값 where 조건
+
+Select
+Select distinct 속성명 from 테이블명
+
+distinct <- 중복을 제거하고 하나만 표시함, 속성명 앞에 위치
+
+UNION ALL 중복 제거 X
+UNION 중복제거 O
+
+Join 조인
+
+조인은 일반적으로는 from 절에 위치하나 어느 위치에서든 사용가능하다.
+
+from 사원 a left outer join 동아리 on a.코드 = b.코드
+
+inner 조인 한 후에 왼쪽에 있는것을 다표현하되 없는 속성값은 null로 해서 다 표현
+
+트리거 : 데이터베이스 시스템에서의 이벤트가 발생했을 때 관련 작업이 작동으로 수행하게 하는 절차형 SQL
+
+동등조인 EQUAL JOIN 3가지 표현 방식
+
+1. where을 사용해서 동일한 조건을 나열
+2. natural join 공통테이블명
+3. 테이블명 1 join 테이블명2 using(속성명)
+
+
+
+
+```
 ## 시험 전 마지막 프로그래밍 정리
 [C](https://youtu.be/jxGsqCpLakA?si=mvG_ifL-5jD-66qM)    
 [C 2](https://youtu.be/JepSpbDFqj8?si=CYTK_DrRgQ1-j-A5)     
