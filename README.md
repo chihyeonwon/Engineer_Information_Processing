@@ -1312,6 +1312,9 @@ a[-1:-5] = [] 파이썬은 오른쪽부터 출력되기때문에 아무것도 �
 a[-1:-5:-1] 이렇게 하면 [9,8,7,6] 이 출력된다.
 
 데이터에는 ' ' 쌍따옴표 X
-
-
 ```
+## 시험 전 마지막 프로그래밍 정리
+[C](https://youtu.be/jxGsqCpLakA?si=mvG_ifL-5jD-66qM)    
+[C 2](https://youtu.be/JepSpbDFqj8?si=CYTK_DrRgQ1-j-A5)     
+[자바](https://youtu.be/vEi-qgeIaRs?si=sOEFJTZcoVveQ3fa)    
+[파이썬](https://youtu.be/EQ74SvmdU4s?si=qcrVMhHUEH_33iUA)     
