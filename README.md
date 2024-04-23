@@ -1366,9 +1366,7 @@ inner 조인 한 후에 왼쪽에 있는것을 다표현하되 없는 속성값�
 2. natural join 공통테이블명
 3. 테이블명 1 join 테이블명2 using(속성명)
 
-
-
-
+create table 테이블명 (문자 char(15), 숫자 int) primary key(속성), unique(속성), check a>=100(조건식)
 ```
 ## 시험 전 마지막 프로그래밍 정리
 [C](https://youtu.be/jxGsqCpLakA?si=mvG_ifL-5jD-66qM)    
