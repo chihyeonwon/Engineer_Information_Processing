@@ -1,5 +1,11 @@
 # Engineer_Information_Processing
 정보처리기사 情報處理技士 Engineer Information Processing 소프트웨어공학 기출문제 학습정리입니다.
+
+## 꾸준함이 가져올 결과들을
+```
+나는 하루도 이 생각을 안 해본 적이 없다
+```
+
 ## 24.02.15 12:40 필기 합
 ![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/4d2aa216-b3d1-483d-b26f-360f1a038eb1)
 
