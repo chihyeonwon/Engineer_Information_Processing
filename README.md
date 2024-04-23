@@ -1377,3 +1377,16 @@ grant all on b to a with grant option
 [C 2](https://youtu.be/JepSpbDFqj8?si=CYTK_DrRgQ1-j-A5)     
 [자바](https://youtu.be/vEi-qgeIaRs?si=sOEFJTZcoVveQ3fa)    
 [파이썬](https://youtu.be/EQ74SvmdU4s?si=qcrVMhHUEH_33iUA)     
+```
+c언어 입출력 : %o 8진수 %x : 16진수
+
+Java 언어 입력 : Scanner 라이브러리 import, scan 객체 생성 후 nextInt()로 정수형 값을 입력받는다.
+객체 사용 후 close로 반환
+
+연산자 우선순위
+
+단산시 관비논 조대순
+
+
+
+```
