@@ -1,7 +1,7 @@
 # Engineer_Information_Processing
 정보처리기사 情報處理技士 Engineer Information Processing 소프트웨어공학 기출문제 학습정리입니다.
 
-## 꾸준하게 무언가를 행하였을 때 가져올 결과와 변화들에 대한 생각
+## 성취
 ```
 나는 하루도 이 생각을 안 해본 적이 없다
 ```
