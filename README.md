@@ -1398,8 +1398,9 @@ a[0,1,2,3,4,5] 슬라이스 a[0:1] = [0] 한개만나오더라도 괄호를 해�
 [] 와 {}의 차이
 
 {} 집합에는 중복요소가 들어갈 수 없기 때문에 add할 때 중복인게 있으면 무시된다.
-
-
-
+```
+![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/58d7314a-80ab-467f-9619-2b14eba2782b)
+```
+print는 뒤에서부터 연산되며 i++는 최종 i의값을 출력한다 중간에 연산이없기때문에
 
 ```
