@@ -1,4 +1,4 @@
-![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/de3c3e12-242e-4a27-95c9-6c693933a979)# Engineer_Information_Processing
+![image]# Engineer_Information_Processing
 정보처리기사 情報處理技士 Engineer Information Processing 소프트웨어공학 기출문제 학습정리입니다.
 
 ## 성취
