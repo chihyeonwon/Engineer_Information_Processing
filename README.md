@@ -1,4 +1,4 @@
-# Engineer_Information_Processing
+![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/de3c3e12-242e-4a27-95c9-6c693933a979)# Engineer_Information_Processing
 정보처리기사 情報處理技士 Engineer Information Processing 소프트웨어공학 기출문제 학습정리입니다.
 
 ## 성취
@@ -1403,5 +1403,11 @@ a[0,1,2,3,4,5] 슬라이스 a[0:1] = [0] 한개만나오더라도 괄호를 해�
 ```
 print는 뒤에서부터 연산되며 ++i는 최종 i의값을 출력한다 중간에 연산이없기때문에
 맨 뒤의 ++i 는 1 증가시키고 맨 마지막에 출력되는 i값을 출력한다.
+```
+![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/2368b956-e5c7-4885-8dce-157149bc8ee0)
+```
+후위연산 i--는 현재 i값을 참조해서 출력한다.
+--i는 i값을 먼저 -1하고 i를 참조하고 있다가 최종 i값을 출력한다.
 
+프린트는 무조건 뒤에서부터 계산해서 출력
 ```
