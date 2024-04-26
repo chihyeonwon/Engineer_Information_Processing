@@ -6,6 +6,10 @@
 나는 하루도 이 생각을 안 해본 적이 없다
 ```
 
+```
+결과가 어떻든 최선을 다해야지
+```
+
 ## 24.02.15 12:40 필기 합
 ![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/4d2aa216-b3d1-483d-b26f-360f1a038eb1)
 
