@@ -5,11 +5,9 @@
 ```
 나는 하루도 이 생각을 안 해본 적이 없다
 ```
-
 ```
 결과가 어떻든 최선을 다해야지
 ```
-
 ## 24.02.15 12:40 필기 합
 ![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/4d2aa216-b3d1-483d-b26f-360f1a038eb1)
 
@@ -17,6 +15,10 @@
 실기는 프로그래밍, 데이터베이스 잘하면 합격하는듯
 [20년 1회](https://www.youtube.com/watch?v=S7l1qX0WhqE&list=PLniy99c_7ZfpDRzBXv1ryJbW-KnHGp1Az)
 
+## 76점 합예상 실기 시험 문제 & 후기
+```
+
+```
 ## 24년 정처기 학습동아리 "정보처리흑기사"
 [1과목 소프트웨어 설계](https://www.youtube.com/watch?v=JhKOsZuMDWs)   
 [2과목 소프트웨어 개발](https://www.youtube.com/watch?v=cnjvTZh3_bg)   
