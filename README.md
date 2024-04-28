@@ -1,12 +1,119 @@
 # Engineer_Information_Processing
 정보처리기사 情報處理技士 Engineer Information Processing 소프트웨어공학 기출문제 학습정리입니다.
+## 제1회 정보처리실기 가채점 04.27
+![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/54c4d28a-c29b-409b-84a6-570db49abda8)
+```
+정답. 기출로 봤던 문제이고 싱글톤 문제임을 알고 있었다. 처음에 4를 적었다가 함정이 있나하고 다시봐도 4
+다른 객체로 하나의 인터페이스에서 처리해도 카운트는 4
+```
+![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/5a1ab9a2-637b-4240-9301-6ffce3934578)
+```
+정답. 삼항연산자랑 if -else 문제. if안의 조건이 만족하지 않아서 맨 뒤에꺼 0이 if안에 들어가고 0은 거짓이니까 else문을 실행
+else하면 v2는 35 v3는 쉬프트 왼쪽으로 2니까 4배해서 116
 
+35 + 116 은 151
+```
+![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/993f544f-8b9d-49a7-95cb-adcecf9e8501)
+```
+정답. 모듈 응집도 강한 것부터 쓰는 문제. 평소에 기순통절시논우로 노래를 만들어서 외웠음
+```
+![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/d6281afe-0a96-4f61-b97c-17e2eb439212)
+```
+정답. 문자 ABCDEFGH가 있고 이 문자를 가리키는 포인터를 선언했음. 함수 호출했는데 함수 안에서 swap 하고 있고 앞의 포인터는 ++ 증가 뒤의 포인터는 문자 맨뒤를 가리키는 데 --감소하고 있으니까 얘들이 ABCDEFGH를 뒤집고 있구나라고 생각했음 그리고 마지막에 for문 돌리면서 print하는데 C언어에서 print는파이썬과 다르게 개행문자 안 넣으면 이어서 출력해야되는 것을 알 고 있었고 for문으로 len=글자수8 까지였으니까 HGFEDCBA의 1, 3, 5, 7 번째 문자를 출력하면 GECA
+```
+![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/d4b16edf-a7cf-4feb-bcce-8e1a0346802d)
+```
+틀림. ip 주소 3개주고 그 ip랑 같은 네트워크에 있는 거 각각 3개 구하는 문제였음 0이랑 249있었는데
+이 두개를 네트워크랑 브로드주소인줄 알고 제외하고 시작했음 -> 결론 틀림 
+```
+![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/ce7bf50c-7ed9-43e4-98fd-8f0babd7c17d)
+```
+정답. 제3정규형, 기본키 2개인 표 하나 주고 최대 몇 정규형인지 쓰는 문제였음 부분 함수 종속성이 있나
+확인해봤는데 없음 왜냐면 결정자를 나열해봤는데 부분종속없었음 그래서 3정규형을 만족하는지 봤는데 이행종속성이 없었음 3정규형 만족, BCNF를 만족하나 봤는데 기본키2개를 제외한 한 속성이 결정자 역할을 하면서 후보키도 아니였음 그래서 BCNF는 만족하지못하는구나 해서 3정규형했음
+```
+![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/92864d84-564b-47db-8e25-1f1bad072b58)
+```
+정답. OSPF 이거는 시험 전에 내부,외부 라우팅 프로토콜 IGP,EGP, IGP에서 RIP, OSPF로 외웠음
+다익스트라 알고리즘과 링크상태프로토콜이라는 말보고 바로 OSPF 적음
+```
+![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/5ee629cf-34bf-48b0-82f9-23b91e98a03d)
+```
+틀림. 조인 종류 물어보는 문제였는데 동등 조인의 의미는 =로 조인한다고 알고 있어서 가운데는 맞음
+자연조인하고 세타조인 두개 고민했었는데 세타가 조인 조건에 만족하는 것, 자연이 중복 제외하고 였음
+두 개를 바꿔서 적어서 틀림 - 부분점수 1점 획득
+```
+![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/709244f8-6a66-401c-ba8c-2d3b74c572d3)
+```
+정답. 페이지 교체 알고리즘인 LRU Least Recently Used랑 LFU Least Frquent used 두 개가 나왔음
+운영체제 전공 수업에서 페이지 교체 연습을 쭉 해왔어서 무난하게 풀었는데 다만 답이 똑같아서 실수했나
+검토를 5번 이상 진행해버렸음. 어떻게 해도 6, 6이 나와서 그대로 둠
+```
+![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/98333c5d-60d5-40be-9444-3bc3d1b40878)
+```
+틀림. 상속 실행 순서로 자식 클래스에서 부모클래스 호출하는거 까지 잘햇는데 print할 때 return 한 값을
+출력한다고 해서 마지막 두개를 바꿔서 씀 다시 생각해보니까 애초에 print가 실행되지 않으면 getArea도
+호출안되는 거였음 ...
+```
+![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/b78ab336-ff70-41f7-9c46-2c21b1259dbb)
+```
+맞음. 구조체 나오고 포인터 나왔음 포인터로 구조체를 가리키고 구조체 안에 있는 값들을 함수 3개에 넣어서 값을 이리저리 바꿈. sim_pow였나 이 함수에서 맨 앞에 double 이 있길레 나는 당연히 return이 있겠거니 했는데 return 문이 없어서 당황함 그러면 sim_pow 결과값이 뭘까하다가 이거는 문제 실수거나 예외처리안한 경고문장이뜨고 프로그램은 돌아갈거다라고 생각해서 return 했다 치고 문제 풀었음 근데 1.1을 3번 곱하더니 1331 (숫자가 너무커서 정확히 기억남)하고 2100을 곱하라는 거임 순간 4자리수 곱셈하는 방법을 까먹었는데 정신차려서 곱했음. 출력할때 %.2f 로 출력하라고 되어있었는데 이건 시나공 10장 프로그래밍 문제 중 출력형태를 공부해서 둘째짜리까지 출력해야겠다 하고  2795.10 까지 적음
+```
+![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/e746cd50-12c0-40fe-9095-0d1ae366966f)
+```
+틀림. 파이썬 기출문제에서 본 문제인데 처음에는 Seynaau 문자 두 번째꺼로 잘 적었다가 기출문제에서는 맨 앞 대문자만 썼던 게 기억나서 무슨 이유인지는 모르겠는데 답을 앞글자 대문자로 바꿔서 적음- 멍청했음
+```
+![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/4462f732-2589-4ad1-9678-a4157514dc67)
+```
+맞음. 조건에 맞는 릴레이션을 칸도 그려서 넣으라는 문제였음. 집에 와서 가답안 주어진 표를 보니까 오름차순 되어있었음 그래서 아마 맞을 거임
+```
+![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/44510653-e6da-4dc6-8971-fc22ab47cc37)
+```
+맞음. 테스트 커버리지 4개하고 경계값 분석, 원인효과 그래프가 보기로 나왔음. 근데 문제에서 말하고 있는 내용은 분명히 커버리지에 관한 문제였음 그래서 경계값 분석, 원인효과 그래프는 보기에서 걸렀음
+테스트 커버리지 3개는 문장, 결정, 분기로 정확히 알고 있었는데 MC/DC 이건 뭐지 뒤에는 결정같은데 하고
+처음에는 결정 커버리지로 생각하고 있다가 그러면 문제에서 말하고 있는 장점인 자기가 결정해서 테스트 출력의 수를 줄이는 장점?이 말이 맞지가 않음 그래서 MC/DC 커버리지 적었음
+
+시험 끝나고 MC/DC를 인터넷에 검색했는 데 문제에 나왔던 지문이 그대로 나왔음 그래서 이런 커버리지도 있구나라고 생각함
+```
+![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/5af20d71-6d22-46a9-936d-004907681a02)
+```
+정답. 무슨 트로이목마하고 해킹 공격자의 공격 루트가 된다에서 보안 용어구나싶었음. 그래서 처음에 Trace route가 보여서 경로를 뚫어서 공격하겠구나 했는데 제일 첫 문제 지문에 프로그램들의 집합이라고 적혀있는 거임. 그래서 내가 아는 집합은 응급구조 키트 키트라는 단어가 생각났음. 보기에 RootKit라고 눈에 띄었음. 그래서 RootKit함
+```
+![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/d8851af9-d24d-4f97-959c-694ad4e5af23)
+```
+정답. 이거는 하루전에 무슨 부모생성자로 만들고 자식클래스 생성자로 호출하는 것을 정리했었음
+자식 클래스 생성자로 호출하고 super로 실컷 부모클래스 변수들을 초기화한다음 다시 메인함수 왔더니
+매개변수 없는 함수 호출하고 있었음. 그래서 그 함수봤는데 부모에도 매개변수 없고 자식에도 매개변수 없음 그러면 어떤 함수를 호출할까? 자식클래스가 부모클래스의 함수를 오버라이딩 재정의(형태가 똑같음)했구나 해서 자식클래스의 함수안의 po*po를 실행하고 리턴값으로 넘겨줬음 po 두개 곱하면 값이 9임
+그래서 9함 
+```
+![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/2d14343e-628e-4cc2-998c-8034a2d5e83a)
+```
+정답. 또 보안용어 문제 나왔음. 근데 딱 문제 지문보니까 지속적이고 1~4번의 과정을 거칠만큼 공격자가 되게 치밀하고 계획적으로 과정을 밟아가면서 공격하는 게 눈에 보임. 그래서 정보보안 수업에서 들었던 APT 지능적 지속적 공격 이 생각났음 그래서 APT 적음
+```
+![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/b9ef6dfb-2674-4326-b975-55909803a674)
+```
+정답. 표 두개인가 주고 조건에 맞는 행의 수를 구하는 문제였음 앞에 두 개 조건을 둘다 만족하는 게 애초에 하나 밖에 없어서 1바로 적음
+```
+![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/e0a5ab71-fe40-4e67-b4cd-887ac6a4ccd0)
+```
+정답. 시저암호?라는 알고리즘이였다고 하는데 이거 푸는데 30분이상 쓰고 시험장에서 제일 늦게 나옴. 첨에 It is 8 적어두고 I는 대문자니까 uppear함수에서 나머지 t is 는 lower함수에서 8은 isnum 함수에서 처리해야겠다 생각하고 A가 아스키 문자로 65이라고 어디서 들은게 기억났음 그래서 ABCDEFGHIJKLMNOPQRSTUVWXYZ 까지 연습란에 적고 65 부터 알파벳 끝까지 번호를 쭉 나열했음
+I의 위치에서 A의 위치, 즉 문자열 사이의 거리를 뜻하는 거구나 해서 이때부터 아스키 코드가 몇 번인지는 크게 중요하지않겠다라고 느낌. % 26으로 나눈 나머지와 A위치 56을 더해서 나오는 위치들을 적어줬음
+
+마지막에 숫자는 솔직히 잘 몰라서 '0'을 0으로보고 8-0+3 -> 11이고 10으로 나눈 나머지 1에다가 0더하니까 1 나와서 그냥 1적음
+```
+![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/f9cce987-d591-40cc-abf6-a3775761f921)
+```
+정답. 디자인 패턴은 시험 전에 생성, 구조, 행위로 나눠진 부분에 있는 디자인 패턴을 거의 다 외움
+문제 지문에는 추상화란 단어가 눈에 많이 보였고 그러면 생성에서 abstract factory 랑 factory method밖에 없다해서 abstract factory 적고 나옴 추상팩토리에 관한 문제였음
+```
+```
+예상은 75점인데 실수하거나 정확히 모르는 문제 1문제빼고는 다 맞출 수 있었던 것 같음.
+솔직히 시험지 상태 확인하라고 해서 처음 시험지 받아서 넘길 때 프로그래밍 문제가 너무 많은 것 같아서 지레 겁부터 먹었었다.
+포기할까 생각했는데 그래도 멘탈 다시잡고 끝까지 남아서 검토했다.
+100점 맞았다고 금테둘러서 나오는 것 아니니까 다음 시험 준비해야겠다.
+```
 ## 성취
 ```
 나는 하루도 이 생각을 안 해본 적이 없다
-```
-```
-결과가 어떻든 최선을 다해야지
 ```
 ## 24.02.15 12:40 필기 합
 ![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/4d2aa216-b3d1-483d-b26f-360f1a038eb1)
