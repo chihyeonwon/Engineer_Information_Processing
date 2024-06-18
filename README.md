@@ -1,5 +1,8 @@
 # Engineer_Information_Processing
 정보처리기사 情報處理技士 Engineer Information Processing 소프트웨어공학 기출문제 학습정리입니다.
+## 24.06.18 합격
+![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/1a58272a-ea82-4732-ab83-c9e509c30b9c)
+
 ## 제1회 정보처리실기 가채점 04.27
 ![image](https://github.com/chihyeonwon/Engineer_Information_Processing/assets/58906858/54c4d28a-c29b-409b-84a6-570db49abda8)
 ```
